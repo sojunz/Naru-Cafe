@@ -8,12 +8,15 @@ const menuItems = [
   { id: 2, name: "Americano", price: 4.50, category: "coffee", emoji: "🖤", badge: null, image: "/images/menu/americano.jpg" },
   { id: 3, name: "Mocha", price: 6.00, category: "coffee", emoji: "🍫", badge: null, image: "/images/menu/Mocha.jpg" },
   { id: 4, name: "Cappuccino", price: 5.50, category: "coffee", emoji: "☁️", badge: null, image: "/images/menu/cappuccino.jpg" },
-  { id: 5, name: "Matcha Latte", price: 5.50, category: "non-coffee", emoji: "🍵", badge: "Popular", image: null },
-  { id: 6, name: "Strawberry Milk", price: 5.00, category: "non-coffee", emoji: "🍓", badge: null, image: null },
-  { id: 7, name: "Mint Lemonade", price: 5.00, category: "non-coffee", emoji: "🌿", badge: null, image: null },
-  { id: 8, name: "Butter Croissant", price: 4.00, category: "food", emoji: "🥐", badge: null, image: null },
-  { id: 9, name: "Brown Sugar Muffin", price: 3.50, category: "food", emoji: "🧁", badge: "New", image: "/images/menu/cupcake.png" },
-  { id: 10, name: "Toast & Jam", price: 5.00, category: "food", emoji: "🍞", badge: null, image: null },
+  { id: 5, name: "Hot Chocolate", price: 5.50, category: "non-coffee", emoji: "🍫", badge: null, image: "/images/menu/hotchocolate.jpg" },
+  { id: 6, name: "Matcha Latte", price: 5.50, category: "non-coffee", emoji: "🍵", badge: "Popular", image: "/images/menu/matcha.jpg" },
+  { id: 7, name: "Strawberry Milk", price: 5.00, category: "non-coffee", emoji: "🍓", badge: null, image: "/images/menu/strawberrymilk.jpg" },
+  { id: 8, name: "Teas", price: 5.00, category: "non-coffee", emoji: "🌿", badge: null, image: "/images/menu/tea.jpg" },
+  { id: 9, name: "Egg Benedict", price: 14.00, category: "food", emoji: "🍳", badge: null, image: "/images/menu/eggbenedict.jpg" },
+  { id: 10, name: "Brown Sugar Muffin", price: 3.50, category: "food", emoji: "🧁", badge: "New", image: "/images/menu/cupcake.png" },
+  { id: 11, name: "Toast Sandwich", price: 5.00, category: "food", emoji: "🥪", badge: null, image: "/images/menu/toastsandwich.jpg" },
+  { id: 12, name: "Berry Pancake", price: 12.00, category: "food", emoji: "🥞", badge: "Popular", image: "/images/menu/berrypancake.jpg" },
+  { id: 13, name: "Panini Chicken Sandwich", price: 13.00, category: "food", emoji: "🥖", badge: null, image: "/images/menu/paninichickensandwich.jpg" },
 ];
 
 const tabs = [
